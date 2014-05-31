@@ -37,5 +37,7 @@ function list_clients() {
 	    }
 	
 	    echo '</ul>';
+	} else {
+		echo 'No clients Created';
 	}
 }
