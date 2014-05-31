@@ -1,0 +1,1 @@
+This adds an admin page Settings > Api Clients. The page lists json consumers that have accessed the api. Good if you need to list all clients key and secret. 
